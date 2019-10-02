@@ -1,2 +1,2 @@
 # DSP
-Digital Signal Mini Projects on DSK6713
+Digital Signal Processing Mini Projects on DSK6713
